@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xri version="1.0">
+   <description>
+      <p>
+      This is the repository for PixInsight scripts by setiastro.com.
+    </p>
+   </description>
+   <platform os="all" arch="noarch" version="1.9.4:1.9.9">
+      <package fileName="SyQonScripts05.13.2026.zip" sha1="4dd54a616d5bea5a3df0a72434c1c77dbfafe01d" type="script" releaseDate="20260513">
+         <title>
+        SyQon - Tools
+      </title>
+         <description>
+            <p>
+Syqon Tool update to run in PI 1.9.4
+		</p>
+         </description>
+      </package>
+   </platform>
+</xri>
+<Signature developerId="FranklinMarek" timestamp="2026-05-13T15:21:13.274Z" encoding="Base64">ynT2AB7g1ScEM3wm13Bvur3GfsG/pMrZnIcgmXvv2lyB6nnlI6OvoNwKO0S1xN56RjqG8pZJAEmFnfuInxIrCQ==</Signature>
