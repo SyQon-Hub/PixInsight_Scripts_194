@@ -6,16 +6,16 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.9.4:1.9.9">
-      <package fileName="SyQonScripts05.13.2026.zip" sha1="4dd54a616d5bea5a3df0a72434c1c77dbfafe01d" type="script" releaseDate="20260513">
+      <package fileName="SyQonScripts06.10.2026.zip" sha1="68f5630bfb4c14e887556a629c40f7c371f7744e" type="script" releaseDate="20260610">
          <title>
-        SyQon - Tools
+        SyQon - Parallax
       </title>
          <description>
             <p>
-Syqon Tool update to run in PI 1.9.4
+SyQon Parallax: Next Generation Sharpening, Star Reduction, and Aberration Correction
 		</p>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2026-05-13T15:21:13.274Z" encoding="Base64">ynT2AB7g1ScEM3wm13Bvur3GfsG/pMrZnIcgmXvv2lyB6nnlI6OvoNwKO0S1xN56RjqG8pZJAEmFnfuInxIrCQ==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2026-06-10T20:31:47.682Z" encoding="Base64">mHGoorNoGIxLp8aKIeXwKVqKBCBVwhBMk2HFVRQcH/CcMIjBnHi0XEvIAPSU8677fzyCBM2txDsBlenMIy93Cg==</Signature>
