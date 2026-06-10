@@ -6,16 +6,16 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.9.4:1.9.9">
-      <package fileName="SyQonScripts06.10.2026.zip" sha1="68f5630bfb4c14e887556a629c40f7c371f7744e" type="script" releaseDate="20260610">
+      <package fileName="SyQonScripts06.10.2026_1.zip" sha1="dbe33aa85348e178e79f8330a4a91c1deb44f720" type="script" releaseDate="20260610">
          <title>
         SyQon - Parallax
       </title>
          <description>
             <p>
-SyQon Parallax: Next Generation Sharpening, Star Reduction, and Aberration Correction
+SyQon Parallax: Next Generation Sharpening, Star Reduction, and Aberration Correction.  V1.1 OSC Bug Fix.
 		</p>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2026-06-10T20:31:47.682Z" encoding="Base64">mHGoorNoGIxLp8aKIeXwKVqKBCBVwhBMk2HFVRQcH/CcMIjBnHi0XEvIAPSU8677fzyCBM2txDsBlenMIy93Cg==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2026-06-10T22:43:42.802Z" encoding="Base64">OSHbONk76y3rxYvTydUJdtu764Gk/7yxsJoFgoVWXEMWCN5GNVAQkyb+JKMi6KTm5zRFwcEfaiWU1wY8Z+VwAQ==</Signature>
