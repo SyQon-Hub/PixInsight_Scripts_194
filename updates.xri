@@ -6,16 +6,16 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.9.4:1.9.9">
-      <package fileName="SyQonScripts07.03.2026_1.zip" sha1="e46c86facd1bc34dac1a640b8c5d26dd6c556f7a" type="script" releaseDate="20260703">
+      <package fileName="SyQonScripts07.11.2026.zip" sha1="938d7a5a39f026f8ad173aad17ce0206e86c50d8" type="script" releaseDate="20260711">
          <title>
-        SyQon - Starless
+        SyQon - Parallax
       </title>
          <description>
             <p>
-Major Update to run the new Axiom 3 starless from SyQon.  Be sure to download the latest all in one standalone starless CLI tool from SyQon.  V3.0.1 update for mac users to make it easier to select the application right from applications.
+Update to run the new Defined models of Parallax.
 		</p>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2026-07-03T19:59:40.921Z" encoding="Base64">8BO93uFt9EJE051pNOQuZQSUmrEdXMVmbRx1ThpcOyHhFF5CwbGH6uvI9xbcbDD7Ea5MNFP67tU0lb+DcIDbAA==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2026-07-12T01:00:29.095Z" encoding="Base64">qLD0kPgdZj6GlJk7GGSiTVL/I+SHK8s2DiO0ioStyMvHeMOyvDyJD3JBx7GADBLwRgmOhFyxqW4vUKYJAlF2Bw==</Signature>
