@@ -6,16 +6,16 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.9.4:1.9.9">
-      <package fileName="SyQonScripts07.13.2026.zip" sha1="8e77715d2f23902e7a3d0e72822f3bd0fed15687" type="script" releaseDate="20260713">
+      <package fileName="SyQonScripts07.15.2026.zip" sha1="952f28c64bcc62e4c1d2ed5450133874f1da4569" type="script" releaseDate="20260715">
          <title>
-        SyQon - Parallax
+        SyQon - Starless
       </title>
          <description>
             <p>
-Timeout bug fix.
+Bug fix where some users couldn&apos;t select the executable
 		</p>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2026-07-13T12:58:31.162Z" encoding="Base64">JdNs1umXeXXRoIdLixkjkOvBj6IZNQBr9SwqKbJ9QMNknrrdqHUqfbZcQusH6B3VLCT2szV3D0i+ALCu+SatAg==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2026-07-15T16:13:56.648Z" encoding="Base64">7SAFrDE4IN6mSmdgbHIBV6P7ZdRQPMohyXkyTgkhhid+J8d7OU9DsX0lI3dF1q0U9TJa1eekIEnTX99IYgf6Cw==</Signature>
