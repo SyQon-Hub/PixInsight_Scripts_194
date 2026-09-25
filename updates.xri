@@ -6,7 +6,7 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.9.4:1.9.9">
-      <package fileName="SyQonScripts09.25.2026.zip" sha1="df508ba1cfb284c2909845494a6c8449b7f40762" type="script" releaseDate="20260925">
+      <package fileName="SyQonScripts09.25.2026.zip" sha1="a9e7f7dcc8e7dcedf9ceea2af92dbc8e592e86b5" type="script" releaseDate="20260925">
          <title>
         SyQon - Studio
       </title>
@@ -18,4 +18,4 @@ SyQon Studio script communicates with SyQon Studio, allowing you to run any SyQo
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2026-09-25T12:58:41.072Z" encoding="Base64">Tqh1EXW/BQZ4s6j4E7KPVCwrjhvvDp/OmAo/b8biacZuMAYxnVdNkX3ctfmY0fUYSPqcugQILHphDqsPSVnTAA==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2026-09-25T13:01:59.223Z" encoding="Base64">hqS2PJjb8pu79B6Ci1OWW/6TOfy+RmVAXv0rKS7ujm9H8ola51vvXFcjSnk8MGgNSs4gOl3zlifUY/JfsTsaDA==</Signature>
