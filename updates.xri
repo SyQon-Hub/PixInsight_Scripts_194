@@ -6,16 +6,16 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.9.4:1.9.9">
-      <package fileName="SyQonScripts09.25.2026.zip" sha1="a9e7f7dcc8e7dcedf9ceea2af92dbc8e592e86b5" type="script" releaseDate="20260925">
+      <package fileName="SyQonScripts09.27.2026.zip" sha1="6763ac72ecae4248606db62ec515786ee7b01544" type="script" releaseDate="20260927">
          <title>
         SyQon - Studio
       </title>
          <description>
             <p>
-SyQon Studio script communicates with SyQon Studio, allowing you to run any SyQon neural net process you are licensed for, in an all in one location.  Use the blue triangle to drag off your current settings to the PI canvas as a shortcut for your favorite engine and settings!  V1.0.1 Bug fix, PI&apos;s native tiff encoder is insufficient, using xisf for temp files.
+V1.0.2 Supports upcoming Linux release for Studio.  SyQon Studio script communicates with SyQon Studio, allowing you to run any SyQon neural net process you are licensed for, in an all in one location.  Use the blue triangle to drag off your current settings to the PI canvas as a shortcut for your favorite engine and settings!
 		</p>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="FranklinMarek" timestamp="2026-09-25T13:01:59.223Z" encoding="Base64">hqS2PJjb8pu79B6Ci1OWW/6TOfy+RmVAXv0rKS7ujm9H8ola51vvXFcjSnk8MGgNSs4gOl3zlifUY/JfsTsaDA==</Signature>
+<Signature developerId="FranklinMarek" timestamp="2026-09-27T13:00:28.072Z" encoding="Base64">A+dt0IPR1zp24eujH+4oKXzEn4596hTOg35vEmsk0RFOaJWfGwEup+iWhdggsL5Aqb9dKCsResb8x7mvQHK0Ag==</Signature>
